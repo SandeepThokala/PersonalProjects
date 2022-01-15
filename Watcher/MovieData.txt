@@ -1,0 +1,266 @@
+Date	Time	Movie Name	Release Year
+Dec 04, 2020	03:15 PM	Tenet	2020
+Dec 10, 2020	11:30 PM	Knives Out	2019
+Jan 12, 2021	11:36 PM	It's Kind of a Funny Story	2010
+Feb 28, 2021	10:58 AM	The Silence of The Lambs	1991
+Mar 01, 2021	01:31 AM	Friday	1995
+Mar 01, 2021	03:13 AM	Donnie Darko	2001
+Mar 02, 2021	01:20 AM	Predestination	2014
+Mar 03, 2021	12:47 AM	Panic Room	2002
+Mar 03, 2021	12:41 AM	Reservoir Dogs	1992
+Mar 04, 2021	02:37 AM	Bohemian Rhapsody	2018
+Mar 05, 2021	12:15 AM	Ford vs Ferrari	2019
+Mar 05, 2021	03:50 AM	Pulp Fiction	1994
+Mar 06, 2021	01:27 AM	Bombshell	2019
+Mar 07, 2021	05:46 AM	Flatliners	2017
+Mar 12, 2021	10:23 AM	The Spectacular Now	2013
+Mar 11, 2021	03:10 AM	Django Unchained	2012
+Mar 11, 2021	11:58 PM	The Fast and the Furious	2001
+Mar 12, 2021	11:34 PM	2 Fast 2 Furious	2003
+Mar 13, 2021	01:31 AM	The Fast and the Furious Tokyo Drift	2006
+Mar 14, 2021	02:10 AM	The Perks of Being a Wallflower	2013
+Mar 14, 2021	03:48 PM	Scott Pilgrim vs the World	2010
+Mar 15, 2021	12:14 AM	Fast and Furious	2009
+Mar 16, 2021	01:50 AM	Fast Five	2011
+Mar 17, 2021	12:18 AM	Fast and Furious 6	2013
+Mar 17, 2021	02:38 AM	Furious 7	2015
+Mar 18, 2021	12:22 AM	The Fate of the Furious	2017
+Mar 18, 2021	02:22 AM	Captain Fantastic	2016
+Mar 20, 2021	01:49 AM	Wilson	2017
+Mar 21, 2021	12:30 AM	John Carter	2012
+Mar 21, 2021	02:58 AM	The Greatest Showman	2017
+Mar 22, 2021	11:54 PM	The Godfather	1972
+Mar 24, 2021	02:59 AM	The Godfather Part II	1974
+Mar 24, 2021	03:08 PM	The Ghost Writer	2010
+Mar 24, 2021	10:35 PM	Zack Snyders Justice League	2021
+Mar 25, 2021	03:27 PM	Collateral Beauty	2016
+Mar 26, 2021	12:43 AM	The Accountant	2016
+Mar 29, 2021	02:36 PM	Assassins Creed	2016
+Mar 30, 2021	01:00 AM	The Matchbreaker	2016
+Mar 30, 2021	04:39 PM	Catch Me if You Can	2002
+Mar 31, 2021	01:30 AM	Up	2009
+Mar 31, 2021	05:09 PM	Inside Man	2006
+Mar 31, 2021	11:50 PM	One Day	2011
+Apr 01, 2021	12:55 AM	Now You See Me	2013
+Apr 01, 2021	11:13 AM	A Million Ways to Die in the West	2014
+Apr 01, 2021	04:59 PM	La La Land	2017
+Apr 02, 2021	11:30 PM	Face Off	1997
+Apr 03, 2021	02:27 AM	Kong Skull Island	2017
+Apr 03, 2021	10:54 AM	A Date with Miss Fortune	2015
+Apr 03, 2021	01:30 PM	Anchorman The Legend of Ron Burgundy	2004
+Apr 03, 2021	11:40 PM	Non Stop	2014
+Apr 04, 2021	01:14 AM	The Lost City of Z	2017
+Apr 04, 2021	01:52 PM	Brimstone	2016
+Apr 04, 2021	03:08 PM	Inglorious Basterds	2009
+Apr 04, 2021	11:20 PM	Lets Be Cops	2014
+Apr 05, 2021	01:15 AM	Good Kids	2016
+Apr 05, 2021	11:18 PM	Good Will Hunting	1997
+Apr 06, 2021	01:30 PM	The Machinist	2004
+Apr 06, 2021	03:30 PM	Due Date	2010
+Apr 06, 2021	11:32 PM	Boss Baby	2017
+Apr 07, 2021	01:52 AM	The Curious Case of Benjamin Button	2009
+Apr 15, 2021	12:53 PM	The Girl with the Dragon Tattoo	2012
+May 07, 2021	10:52 AM	Now You See Me 2	2016
+May 07, 2021	03:22 PM	Taxi Driver	1976
+May 08, 2021	09:32 AM	Kill Bill Volume 1	2003
+May 08, 2021	01:23 PM	Kill Bill Volume 2	2004
+May 08, 2021	04:09 PM	Dead Poets Society	1989
+May 09, 2021	10:20 AM	The Hateful Eight	2016
+May 09, 2021	02:47 PM	The Social Network	2010
+May 11, 2021	05:05 PM	Limitless	2011
+May 12, 2021	01:37 PM	Escape Plan	2013
+May 12, 2021	03:08 PM	Baby Driver	2017
+May 12, 2021	06:43 PM	Scary Movie	2000
+May 13, 2021	10:44 AM	The Big Sick	2017
+May 13, 2021	02:34 PM	Se7en	1995
+May 13, 2021	05:57 PM	The Exorcist	1973
+May 14, 2021	10:41 AM	Jackie Brown	1997
+May 14, 2021	02:59 PM	The King of Comedy	1982
+May 14, 2021	08:56 PM	Zodiac	2007
+May 15, 2021	11:50 AM	Baywatch	2017
+May 15, 2021	03:25 PM	Fast & Furious Presents: Hobbs & Shaw	2019
+May 15, 2021	08:12 PM	Heat	1996
+May 16, 2021	11:10 AM	Boxcar Bertha	1972
+May 17, 2021	12:35 PM	New York, New York	1977
+May 17, 2021	08:46 PM	Prisoners	2013
+May 18, 2021	11:46 AM	The Aviator	2004
+May 18, 2021	04:51 PM	Raging Bull	1980
+May 19, 2021	02:31 PM	The Shining	1980
+May 19, 2021	08:41 PM	Casino	1995
+May 20, 2021	01:20 PM	Mean Streets	1973
+May 20, 2021	08:20 PM	A Beautiful Mind	2001
+May 20, 2021	10:11 PM	Little Women	2019
+May 21, 2021	01:20 AM	Gangs of New York	2002
+May 21, 2021	10:43 AM	Escape Room	2019
+May 21, 2021	01:01 PM	GoodFellas	1990
+May 21, 2021	04:27 PM	Her	2014
+May 22, 2021	09:24 PM	The Game	1997
+May 22, 2021	11:24 PM	The New Mutants	2020
+May 23, 2021	11:11 PM	Cape Fear	1991
+May 30, 2021	11:05 PM	I Care a Lot	2021
+Jun 03, 2021	11:09 PM	Unfriended Dark Web	2018
+Jun 04, 2021	11:42 PM	The Intern	2015
+Jun 05, 2021	02:53 AM	Saving Private Ryan	1998
+Jun 05, 2021	10:28 PM	The Good Shepherd	2006
+Jun 06, 2021	12:37 AM	The IrishMan	2019
+Jun 06, 2021	02:23 PM	Death Proof	2007
+Jun 06, 2021	08:05 PM	The Woman in the Window	2021
+Jun 10, 2021	11:33 PM	Just Mercy	2020
+Jun 11, 2021	01:55 AM	Wrath of Man	2021
+Jun 11, 2021	11:47 PM	Cruella	2021
+Jun 12, 2021	01:37 AM	The Master	2012
+Jun 12, 2021	01:55 PM	Friends: The Reunion	2021
+Jun 13, 2021	01:28 PM	Those Who Wish Me Dead	2021
+Jun 13, 2021	04:53 PM	Demolition	2016
+Jun 13, 2021	10:23 PM	Blue Valentine	2010
+Jun 14, 2021	03:20 PM	Nightcrawler	2014
+Jun 14, 2021	11:37 PM	The Gentlemen	2020
+Jun 15, 2021	11:47 PM	Nobody	2021
+Jun 16, 2021	01:40 AM	The Revenant	2016
+Jun 16, 2021	11:08 PM	Portrait of a Lady on Fire FRENCH	2019
+Jun 18, 2021	12:24 AM	Phantom Thread	2017
+Jun 20, 2021	12:57 AM	Black Swan	2010
+Jun 28, 2021	11:33 PM	Revolutionary Road	2008
+Jun 30, 2021	01:23 AM	Closer	2004
+Jun 30, 2021	11:50 PM	Chung King Express CHINESE	1994
+Jul 01, 2021	03:36 PM	Tropic Thunder	2008
+Jul 01, 2021	10:53 PM	The Usual Suspects	1995
+Jul 02, 2021	10:50 PM	Call Me by Your Name	2017
+Jul 03, 2021	10:56 PM	Punch-Drunk Love	2002
+Jul 04, 2021	12:31 AM	Incendies FRENCH	2010
+Jul 04, 2021	10:41 AM	War Dogs	2016
+Jul 04, 2021	02:02 PM	Midsommar	2019
+Jul 04, 2021	06:21 PM	Maelstrom FRENCH	2000
+Jul 04, 2021	11:11 PM	Arrival	2016
+Jul 09, 2021	12:20 AM	American Psycho	2000
+Jul 10, 2021	05:39 PM	Chaos Walking	2021
+Jul 10, 2021	11:03 PM	The Hitmans Bodyguard	2017
+Jul 11, 2021	12:58 AM	Oceans Eleven	2001
+Jul 11, 2021	07:08 PM	1917	2019
+Jul 11, 2021	11:29 PM	10 Things I Hate About You	1999
+Jul 17, 2021	12:25 AM	The Truman Show	1998
+Jul 18, 2021	01:24 PM	Dont Worry He Wont Get Far On Foot	2018
+Jul 28, 2021	11:16 PM	Van Helsing	2004
+Jul 30, 2021	11:46 PM	The Big Lebowski	1998
+Jul 31, 2021	01:48 PM	V For Vendetta	2005
+Aug 01, 2021	01:40 AM	Snowpiercer	2013
+Aug 01, 2021	04:44 PM	Three Billboards Outside Ebbing Missouri	2017
+Aug 04, 2021	06:53 AM	There Will Be Blood	2007
+Aug 04, 2021	11:26 PM	Pirates of the Caribbean Curse of the Black Pearl	2003
+Aug 07, 2021	12:05 AM	Green Book	2018
+Aug 07, 2021	05:27 PM	The Hangover 2009
+Aug 08, 2021	10:17 PM	No Sudden Move	2021
+Aug 09, 2021	12:27 AM	The Deer Hunter	1978
+Aug 09, 2021	07:08 PM	Polytechnique FRENCH	2009
+Aug 09, 2021	11:52 PM	Sicario	2015
+Aug 10, 2021	11:59 PM	The Magnificent Ambersons	1942
+Aug 11, 2021	11:58 PM	Pirates of the Caribbean Dead Mans Chest	2006
+Aug 13, 2021	12:34 AM	Boyhood	2014
+Aug 14, 2021	10:00 PM	Touch of Evil	1958
+Aug 18, 2021	10:08 PM	Drag Me to Hell	2009
+Aug 18, 2021	11:43 PM	Scarface	1983
+Aug 20, 2021	11:22 PM	Fast and Furious F9 The Fast Saga	2021
+Aug 21, 2021	11:36 AM	Chimes at Midnight	1965
+Aug 29, 2021	11:04 AM	Children of Men	2006
+Aug 29, 2021	09:10 PM	Gladiator	2000
+Sep 02, 2021	11:36 AM	Oceans Twelve	2004
+Sep 02, 2021	10:47 PM	Oceans Thirteen	2007
+Sep 03, 2021	11:32 PM	Boogie Nights	1997
+Sep 04, 2021	03:20 PM	Traffic	2000
+Sep 04, 2021	10:57 PM	The Lady from Shanghai	1947
+Sep 05, 2021	01:27 PM	Eyes Wide Shut	1999
+Sep 08, 2021	12:23 AM	Lost In Translation	2003
+Sep 11, 2021	07:25 PM	Shang-Chi and the Legend of the Ten Rings	2021
+Sep 12, 2021	11:51 AM	The Departed	2006
+Sep 16, 2021	09:23 PM	Enemy	2013
+Sep 28, 2021	09:38 PM	Amelie FRENCH	2001
+Sep 29, 2021	08:01 PM	Burn After Reading	2008
+Sep 30, 2021	10:39 PM	American Hustle	2013
+Oct 01, 2021	09:47 PM	American Beauty	1999
+Oct 03, 2021	02:34 PM	Jungle Cruise	2021
+Oct 03, 2021	10:15 PM	28 Days Later	2002
+Oct 04, 2021	07:33 AM	Moneyball	2011
+Oct 04, 2021	02:54 PM	Casino Royale	2006
+Oct 04, 2021	08:54 PM	Quantum of Solace	2008
+Oct 05, 2021	08:22 AM	Moonrise Kingdom	2012
+Oct 05, 2021	10:38 PM	Skyfall	2012
+Oct 06, 2021	08:37 AM	Spectre	2015
+Oct 06, 2021	10:44 PM	Meet the Parents	2000
+Oct 15, 2021	01:40 PM	Jarhead	2005
+Oct 16, 2021	09:10 PM	Venom Let There Be Carnage	2021
+Oct 17, 2021	02:09 PM	Nocturnal Animals	2016
+Oct 17, 2021	04:04 PM	Rec SPANISH	2007
+Oct 17, 2021	09:50 PM	Road to Perdition	2002
+Oct 19, 2021	11:23 PM	Step Brothers	2008
+Oct 22, 2021	10:04 PM	Brothers	2009
+Oct 23, 2021	11:50 AM	Doubt	2008
+Oct 23, 2021	03:53 PM	Dallas Buyers Club	2013
+Oct 25, 2021	11:25 PM	Gods And Monsters	1998
+Oct 26, 2021	08:25 PM	Dune	2021
+Oct 27, 2021	11:02 PM	2001 A Space Odyssey	1968
+Oct 28, 2021	11:14 PM	Easy A	2010
+Oct 30, 2021	12:59 AM	Youth	2015
+Oct 31, 2021	10:53 PM	Uncut Gems	2019
+Nov 01, 2021	11:36 PM	The Royal Tenenbaums	2001
+Nov 02, 2021	09:58 PM	The Double	2013
+Nov 03, 2021	11:28 PM	Carlitos Way	1993
+Nov 04, 2021	11:47 PM	The Place Beyond the Pines	2012
+Nov 06, 2021	09:00 AM	Eternals	2021
+Nov 06, 2021	10:33 PM	Evil Dead	2013
+Nov 07, 2021	12:05 AM	Jojo Rabbit	2019
+Nov 07, 2021	11:54 AM	Almost Famous	2000
+Nov 07, 2021	11:14 PM	Vice	2018
+Nov 10, 2021	11:37 PM	Requiem for a Dream	2000
+Nov 17, 2021	11:48 PM	The Wizard Of OZ	1939
+Nov 18, 2021	10:31 PM	The Shape of Water	2017
+Nov 20, 2021	11:52 AM	The Hangover Part II	2011
+Nov 20, 2021	07:09 PM	The Hangover Part III	2013
+Nov 20, 2021	11:12 PM	Monty Python And The Holy Grail	1975
+Nov 22, 2021	11:47 PM	12 Angry Men	1957
+Nov 23, 2021	11:36 PM	Blade Runner 2049	2017
+Nov 24, 2021	11:08 PM	Top Gun	1986
+Nov 25, 2021	10:14 PM	Us	2019
+Nov 26, 2021	12:34 AM	Lock Stock and Two Smoking Barrels	1998
+Nov 26, 2021	11:56 PM	Red Notice	2021
+Nov 27, 2021	05:07 PM	Away We Go	2009
+Nov 27, 2021	11:14 PM	Blue Velvet	1986
+Nov 28, 2021	03:55 PM	Bridge of Spies	2015
+Nov 28, 2021	08:06 PM	Warrior	2011
+Nov 28, 2021	11:02 PM	Magnolia	1999
+Nov 29, 2021	11:28 PM	Annihilation	2018
+Nov 30, 2021	01:18 AM	Inside Llewyn Davis	2013
+Dec 01, 2021	09:56 PM	Free Guy	2021
+Dec 02, 2021	12:00 AM	Inside Llewyn Davis	2013
+Dec 02, 2021	08:59 PM	The Guilty	2021
+Dec 03, 2021	03:07 AM	Night at the Museum	2006
+Dec 03, 2021	10:56 AM	Night At The Museum Battle Of The Smithsonian	2009
+Dec 03, 2021	04:40 PM	Night At The Museum Secret of The Tomb	2014
+Dec 03, 2021	09:40 PM	Open Your Eyes SPANISH	1997
+Dec 04, 2021	12:00 AM	Being John Malkovich	1999
+Dec 06, 2021	09:29 PM	Psycho	1960
+Dec 07, 2021	11:46 PM	Seven Samurai JAPANESE	1954
+Dec 08, 2021	09:21 PM	Groundhog Day	1993
+Dec 08, 2021	11:12 PM	Valkyrie	2008
+Dec 10, 2021	12:29 AM	The Last Samurai	2003
+Dec 10, 2021	09:27 PM	Schindlers List	1993
+Dec 12, 2021	12:39 AM	Wildlife	2018
+Dec 12, 2021	02:24 AM	The Pianist	2002
+Dec 14, 2021	09:38 PM	Shiva Baby	2020
+Dec 14, 2021	10:53 PM	Meet the Fockers	2004
+Dec 15, 2021	12:46 AM	Little Fockers	2010
+Dec 16, 2021	09:00 AM	Spider-Man No Way Home	2021
+Dec 26, 2021	10:23 PM	Black Widow	2021
+Dec 30, 2021	09:56 AM	Dont Look Up	2021
+Jan 01, 2022	10:12 AM	Spider-Man	2002
+Jan 01, 2022	09:49 PM	Spider-Man 2	2004
+Jan 02, 2022	09:50 PM	Spider-Man 3	2007
+Jan 05, 2022	02:35 PM	The Amazing Spider-Man	2012
+Jan 06, 2022	09:48 PM	The Amazing Spider-Man 2	2014
+Jan 07, 2022	05:15 PM	Spider-Man No Way Home	2021
+Jan 09, 2022	03:19 PM	Spider-Man Into The Spider Verse	2018
+Jan 10, 2022	08:42 PM	Donnie Brasco	1997
+Jan 11, 2022	09:25 PM	Mulholland Drive	2001
+Jan 12, 2022	09:47 PM	Dumb and Dumber	1994
+Jan 13, 2022	07:55 PM	Mystic River	2003
+Jan 14, 2022	01:17 PM	A Bigger Splash	2015
+Jan 14, 2022	09:21 PM	Paths Of Glory	1957
