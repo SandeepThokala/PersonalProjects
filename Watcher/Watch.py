@@ -1,14 +1,20 @@
-from random import choice
-from os import listdir, startfile, path
-from os.path import isdir, join
-from shutil import move
 from re import search, split
+from os import listdir, startfile, chdir, system
+from os.path import isdir, join
+from random import choice
 from datetime import datetime
 from csv import writer
+from shutil import move
 
 year_pattern = r"\.(\d{4})\."
 isall_dir = lambda x: all([isdir(join(x, i)) for i in listdir(x)])
 get_year = lambda x: search(year_pattern, x).group(1)
+git = r"C:\Users\sande\Desktop\Deepu\MyData\PersonalProjects"
+
+def ask(message):
+  response = input(f'{message}? (Y/n): ')
+  return not(response) or (response.upper()[0] == 'Y')
+
 
 # ###################################################### MOVIE WATCHER ########################################################
 
@@ -19,6 +25,8 @@ def set_moviedata(movie_name, year):
     data_writer = writer(movie_data, delimiter='\t')
     now = datetime.now()
     data_writer .writerow([now.strftime('%b %d, %Y'), now.strftime('%I:%M %p'), movie_name, year])
+    chdir(git)
+    system(f'git add Watcher && git commit -m "{movie_name} ({year})" && git push')
 
 
 def start(inpath_arg):
@@ -32,8 +40,7 @@ def start(inpath_arg):
   set_moviedata(movie_name, year)
   if search(rf"{movie_name}\t{year}", data):
     print(f'Already watched {movie_name} {year}')
-    rewatch = input('Rewatch? (Y/n): ')
-    if not(rewatch) or (rewatch.upper() == 'Y'): startfile(join(inpath_arg, file_name))
+    if ask('Rewatch'): startfile(join(inpath_arg, file_name))
     else: pass
   else: startfile(join(inpath_arg, file_name))
 
@@ -45,8 +52,7 @@ def watch(inpath_arg):
     series.sort(key = get_year)
     for i in series: start(join(inpath_arg, i))
   else: start(inpath_arg)
-  the_end = input('Move to Watched folder? (Y/n): ')
-  try: return move(inpath_arg, r"E:\Watched") if (the_end or (the_end.upper() == 'Y')) else move(inpath_arg, r"E:\Delete")
+  try: return move(inpath_arg, r"E:\Watched") if ask('Move to Watched folder') else move(inpath_arg, r"E:\Delete")
   except: pass
 
 
