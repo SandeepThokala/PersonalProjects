@@ -1,6 +1,6 @@
 from re import search, split
 from os import listdir, startfile, chdir, system
-from os.path import isdir, join
+from os.path import isdir, join, splitext
 from random import choice
 from datetime import datetime
 from csv import writer
@@ -31,7 +31,7 @@ def set_moviedata(movie_name, year):
 
 def start(inpath_arg):
   data = open('MovieData.txt', 'r').read()
-  file_name = list(filter(lambda x: path.splitext(x)[-1].lower() in ['.mp4', '.mkv', '.avi'], listdir(inpath_arg))).pop()
+  file_name = list(filter(lambda x: splitext(x)[-1].lower() in ['.mp4', '.mkv', '.avi'], listdir(inpath_arg))).pop()
   movie_name, year, tags = split(year_pattern, file_name)
   try: language = list(filter(lambda x: x in Languages, tags.split('.'))).pop()
   except IndexError: language = ''
