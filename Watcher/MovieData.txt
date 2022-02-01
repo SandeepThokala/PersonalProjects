@@ -1,7 +1,7 @@
 Date	Time	Movie Name	Release Year
 Dec 04, 2020	03:15 PM	Tenet	2020
 Dec 10, 2020	11:30 PM	Knives Out	2019
-Jan 12, 2021	11:36 PM	It's Kind of a Funny Story	2010
+Jan 12, 2021	11:36 PM	Its Kind of a Funny Story	2010
 Feb 28, 2021	10:58 AM	The Silence of The Lambs	1991
 Mar 01, 2021	01:31 AM	Friday	1995
 Mar 01, 2021	03:13 AM	Donnie Darko	2001
@@ -78,7 +78,7 @@ May 14, 2021	10:41 AM	Jackie Brown	1997
 May 14, 2021	02:59 PM	The King of Comedy	1982
 May 14, 2021	08:56 PM	Zodiac	2007
 May 15, 2021	11:50 AM	Baywatch	2017
-May 15, 2021	03:25 PM	Fast & Furious Presents: Hobbs & Shaw	2019
+May 15, 2021	03:25 PM	Fast & Furious Presents Hobbs & Shaw	2019
 May 15, 2021	08:12 PM	Heat	1996
 May 16, 2021	11:10 AM	Boxcar Bertha	1972
 May 17, 2021	12:35 PM	New York, New York	1977
@@ -109,7 +109,7 @@ Jun 10, 2021	11:33 PM	Just Mercy	2020
 Jun 11, 2021	01:55 AM	Wrath of Man	2021
 Jun 11, 2021	11:47 PM	Cruella	2021
 Jun 12, 2021	01:37 AM	The Master	2012
-Jun 12, 2021	01:55 PM	Friends: The Reunion	2021
+Jun 12, 2021	01:55 PM	Friends The Reunion	2021
 Jun 13, 2021	01:28 PM	Those Who Wish Me Dead	2021
 Jun 13, 2021	04:53 PM	Demolition	2016
 Jun 13, 2021	10:23 PM	Blue Valentine	2010
@@ -228,7 +228,6 @@ Nov 28, 2021	03:55 PM	Bridge of Spies	2015
 Nov 28, 2021	08:06 PM	Warrior	2011
 Nov 28, 2021	11:02 PM	Magnolia	1999
 Nov 29, 2021	11:28 PM	Annihilation	2018
-Nov 30, 2021	01:18 AM	Inside Llewyn Davis	2013
 Dec 01, 2021	09:56 PM	Free Guy	2021
 Dec 02, 2021	12:00 AM	Inside Llewyn Davis	2013
 Dec 02, 2021	08:59 PM	The Guilty	2021
@@ -264,3 +263,6 @@ Jan 12, 2022	09:47 PM	Dumb and Dumber	1994
 Jan 13, 2022	07:55 PM	Mystic River	2003
 Jan 14, 2022	01:17 PM	A Bigger Splash	2015
 Jan 14, 2022	09:21 PM	Paths Of Glory	1957
+Jan 29, 2022	10:44 PM	Waves	2019
+Jan 30, 2022	07:36 PM	Casablanca	1942
+Feb 01, 2022	12:05 AM	Leon The Professional	1994
