@@ -267,3 +267,5 @@ Jan 29, 2022	10:44 PM	Waves	2019
 Jan 30, 2022	07:36 PM	Casablanca	1942
 Feb 01, 2022	12:05 AM	Leon The Professional	1994
 Feb 03, 2022	01:32 PM	Pirates of the Caribbean At Worlds End	2007
+Feb 03, 2022	11:48 PM	Pirates of the Caribbean On Stranger Tides	2011
+Feb 04, 2022	04:40 PM	The Fourth Kind	2009

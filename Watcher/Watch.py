@@ -29,7 +29,7 @@ def set_moviedata(movie_name, year):
     data_writer = writer(movie_data, delimiter='\t')
     now = datetime.now()
     data_writer.writerow([now.strftime('%b %d, %Y'), now.strftime('%I:%M %p'), movie_name, year])
-    run(f'git add Watcher && git commit -m "{movie_name} ({year})" && git push', cwd = git, shell = True, stdout = DEVNULL)
+    # run(f'git add Watcher && git commit -m "{movie_name} ({year})" && git push', cwd = git, shell = True, stdout = DEVNULL)
 
 
 def start(inpath_arg):
@@ -62,5 +62,5 @@ def watch(inpath_arg):
 
 watchlist = lambda inpath_arg: watch(join(inpath_arg, choice(listdir(inpath_arg))))
 
-# watchlist(r"E:\Watchlist")
-watch(r"E:\Watchlist\Pirates Of Caribbean")
+watchlist(r"E:\Watchlist")
+# watch(r"E:\Watchlist\Pirates Of Caribbean")
