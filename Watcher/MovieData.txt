@@ -269,3 +269,5 @@ Feb 01, 2022	12:05 AM	Leon The Professional	1994
 Feb 03, 2022	01:32 PM	Pirates of the Caribbean At Worlds End	2007
 Feb 03, 2022	11:48 PM	Pirates of the Caribbean On Stranger Tides	2011
 Feb 04, 2022	04:40 PM	The Fourth Kind	2009
+Feb 05, 2022	06:36 PM	The Suicide Squad	2021
+Feb 06, 2022	02:32 PM	Citizen Kane	1941
