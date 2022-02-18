@@ -272,3 +272,4 @@ Feb 04, 2022	04:40 PM	The Fourth Kind	2009
 Feb 05, 2022	06:36 PM	The Suicide Squad	2021
 Feb 06, 2022	02:32 PM	Citizen Kane	1941
 Feb 16, 2022	11:52 PM	Tombstone	1993
+Feb 18, 2022	10:45 PM	Ad Astra	2019
