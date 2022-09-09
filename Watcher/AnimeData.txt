@@ -113,3 +113,26 @@ Aug 28, 2021	03:21 AM	Fullmetal Alchemist: Brotherhood	1	61
 Aug 28, 2021	09:19 AM	Fullmetal Alchemist: Brotherhood	1	62
 Aug 28, 2021	09:40 AM	Fullmetal Alchemist: Brotherhood	1	63
 Aug 28, 2021	10:03 AM	Fullmetal Alchemist: Brotherhood	1	64
+Apr 20, 2022	10:10 PM	Another	1	1
+Apr 20, 2022	10:33 PM	Another	1	2
+Apr 20, 2022	10:56 PM	Another	1	3
+Apr 20, 2022	11:19 PM	Another	1	4
+Apr 20, 2022	11:44 PM	Another	1	5
+Apr 21, 2022	07:32 PM	Another	1	6
+Apr 21, 2022	08:45 PM	Another	1	7
+Apr 21, 2022	09:09 PM	Another	1	8
+Apr 21, 2022	09:32 PM	Another	1	9
+Apr 21, 2022	09:54 PM	Another	1	10
+Apr 21, 2022	10:16 PM	Another	1	11
+Apr 21, 2022	10:39 PM	Another	1	12
+Jul 07, 2022	02:57 PM	Anohana	1	1
+Jul 07, 2022	05:59 PM	Anohana	1	2
+Jul 07, 2022	06:23 PM	Anohana	1	3
+Jul 07, 2022	06:46 PM	Anohana	1	4
+Jul 07, 2022	07:08 PM	Anohana	1	5
+Jul 07, 2022	10:45 PM	Anohana	1	6
+Jul 07, 2022	11:07 PM	Anohana	1	7
+Jul 07, 2022	11:28 PM	Anohana	1	8
+Jul 07, 2022	11:50 PM	Anohana	1	9
+Jul 08, 2022	12:01 AM	Anohana	1	10
+Jul 08, 2022	12:25 AM	Anohana	1	11
