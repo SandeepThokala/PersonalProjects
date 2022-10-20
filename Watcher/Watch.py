@@ -27,9 +27,10 @@ def set_moviedata(movie_name, year):
   print(chr(9658), movie_name, year)
   with open('MovieData.txt', 'a', newline='\n') as movie_data:
     data_writer = writer(movie_data, delimiter='\t')
-    now = datetime.now()
-    data_writer.writerow([now.strftime('%b %d, %Y'), now.strftime('%I:%M %p'), movie_name, year])
-    run(f'git add Watcher && git commit -m "{movie_name} ({year})" && git push', cwd = git, shell = True, stdout = DEVNULL)
+    now = datetime.now().astimezone()
+    date, time, tz_name = now.strftime('%b %d, %Y'), now.strftime('%I:%M %p'), ''.join(i for i in now.strftime('%Z') if i.isupper())
+    data_writer.writerow([date, f"{time} {tz_name}", movie_name, year])
+    # run(f'git add Watcher && git commit -m "{movie_name} ({year})" && git push', cwd = git, shell = True, stdout = DEVNULL)
 
 
 def start(inpath_arg):
@@ -63,4 +64,4 @@ def watch(inpath_arg):
 watchlist = lambda inpath_arg: watch(join(inpath_arg, choice(listdir(inpath_arg))))
 
 watchlist(r"E:\Watchlist")
-# watch(r"E:\Watchlist\Pirates Of Caribbean")
+# watch(r"E:\Watchlist\The.Rock.1996.1080p.BluRay.x265-RARBG")
