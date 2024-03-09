@@ -1,2 +1,2 @@
 # Watcher
-Randomly selects an item from a directory and recursively searches for a video file to play.
+Randomly selects a movie directory from a watchlist directory and searches for a video file to play.
