@@ -17,3 +17,6 @@
 * The script logs into [US visa portal](https://ais.usvisa-info.com) using Selenium.
 * Navigates through the website, checks for available visa appointemts.
 * Sends an email notification if an early available slot is found.
+
+# [Generative Art](https://github.com/SandeepThokala/GenerativeArt)
+* Uses python open cv to let the user control background removal of an input image. 
